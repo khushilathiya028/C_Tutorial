@@ -1,0 +1,6 @@
+WAP to show difference between Structure and Union. 
+
+                              in the case of a structure, there is a specific memory location for every input date member.
+                              thus, it can store multiple values of the various members.
+                              in the case of a union, there is an allocation of only one shared memory for all the input data members.
+                              thus, it stores one value at a time for all of its members.
